@@ -1,4 +1,4 @@
 catalogviewer
 =============
 
-Small script to view munki catalogs in a browser
+php script to view munki catalogs in a browser
